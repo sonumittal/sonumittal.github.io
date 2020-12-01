@@ -10,6 +10,8 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+ /*----Added CSS--------*/
  .rotate {
   animation: rotation 4s infinite linear;
 }
@@ -131,6 +133,10 @@ background-color:#313131 !important;
   margin-right: 1em;
 }
 
+
+ /*----End of Added CSS--------*/
+
+ 
 .list-font{
   color:#6c757d;
   font-size: 12px;;
